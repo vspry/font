@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "CaskaydiaCoveNerdFontCompleteMono-Regular";
+  src: url("CaskaydiaCoveRegularNerdFontCompleteMono.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+x-row {
+  text-rendering: optimizeLegibility;
+  font-variant-ligatures: normal;
+}
